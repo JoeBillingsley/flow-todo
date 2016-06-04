@@ -1,0 +1,32 @@
+{
+  "name": "flow-todo",
+  "version": "1.0.0",
+  "description": "A todo list that keeps you moving",
+  "main": "index.js",
+  "scripts": {
+    "build" : "reactpack src/index.js"
+  },
+   "dependencies": {
+    "bootstrap": "^3.3.6",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "devDependencies": {
+    "reactpack": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeBillingsley/flow-todo.git"
+  },
+  "keywords": [
+    "todo",
+    "react",
+    "flow"
+  ],
+  "author": "Joe Billingsley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JoeBillingsley/flow-todo/issues"
+  },
+  "homepage": "https://github.com/JoeBillingsley/flow-todo#readme"
+}
