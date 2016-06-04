@@ -4,7 +4,7 @@
   "description": "A todo list that keeps you moving",
   "main": "index.js",
   "scripts": {
-    "build" : "reactpack src/index.js"
+    "build" : "reactpack src/index.jsx"
   },
    "dependencies": {
     "bootstrap": "^3.3.6",
